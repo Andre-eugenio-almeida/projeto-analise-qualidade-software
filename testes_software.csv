@@ -1,0 +1,17 @@
+
+id_teste,modulo,versao,resultado,tempo_segundos,defeitos
+T001,Login,1.0,Aprovado,2,0
+T002,Login,1.0,Reprovado,5,1
+T003,Pagamento,1.0,Aprovado,4,0
+T004,Pagamento,1.0,Reprovado,8,2
+T005,Cadastro,1.0,Aprovado,3,0
+T006,Cadastro,1.0,Aprovado,2,0
+T007,Login,1.1,Aprovado,2,0
+T008,Login,1.1,Reprovado,6,1
+T009,Pagamento,1.1,Reprovado,9,2
+T010,Pagamento,1.1,Aprovado,4,0
+T011,Cadastro,1.1,Aprovado,3,0
+T012,Cadastro,1.1,Reprovado,5,1
+T013,Login,1.2,Aprovado,2,0
+T014,Pagamento,1.2,Aprovado,4,0
+T015,Cadastro,1.2,Aprovado,3,0
